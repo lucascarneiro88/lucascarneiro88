@@ -17,4 +17,3 @@ OLÁ! EU SOU O LUCAS.
  
   
 </div>
-![Snake animation](https://github.com/lucascarneiro88/blob/output/github-contribution-grid-snake.svg)
