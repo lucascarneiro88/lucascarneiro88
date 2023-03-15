@@ -1,5 +1,4 @@
-### Hi there 👋
-Bem vindo ao Github do Lucas..
+OLÁ! EU SOU O LUCAS.
 
  <div>
    <a href="https://github.com/Lucascarneiro88">
@@ -18,3 +17,4 @@ Bem vindo ao Github do Lucas..
  
   
 </div>
+![Snake animation](https://github.com/lucascarneiro88/blob/output/github-contribution-grid-snake.svg)
