@@ -1,4 +1,5 @@
 ### Hi there 👋
+Bem vindo ao Github do Lucas..
 
  <div>
    <a href="https://github.com/Lucascarneiro88">
