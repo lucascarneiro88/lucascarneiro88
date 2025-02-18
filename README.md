@@ -1,19 +1,33 @@
-OLÁ! EU SOU O LUCAS.
+
+# Olá, sou o Lucas 👋
+
+Atualmente, estou no **2º ano** de **Análise e Desenvolvimento de Sistemas** na **UNINTER**. Tenho formação técnica em **Desenvolvimento Fullstack** e sou apaixonado por **tecnologias como C#**, **React.js**, **JavaScript**, **MySQL**, **SQL Server**, além de explorar áreas como **DevOps**, **cloud computing** e **infraestrutura**.
+
+
+
+## 📚 Formação
+- **Análise e Desenvolvimento de Sistemas** - UNINTER
+- **Técnico em Desenvolvimento Fullstack** - SENAC
+
+## 🛠️ Tecnologias
+- **C#**, **React.js**, **JavaScript**, **MySQL**, **SQL Server**
+- **DevOps**, **AWS**, **Linux**, **Docker**, **Kubernetes**, **Terraform**
+- **Prometheus**, **Grafana**
+
+## 🌱 Aprendendo
+- Gerenciamento de infraestruturas na **AWS**
+- **Linux** e administração de sistemas
+- Automação de processos com **Terraform** e **Docker**
+- Monitoramento e análise de dados com **Prometheus** e **Grafana**
+
+## 📬 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/lucascarneiro88)
+- [GitHub](https://github.com/lucascarneiro88)
+
+
 
  <div>
    <a href="https://github.com/Lucascarneiro88">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucascarneiro88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascarneiro88&layout=compact&langs_count=6&theme=tokyonight"/>
-
-
- 
-  
-<div> 
-  
-  <a href="https://instagram.com/lcs_88" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/lucas_santos54#2508" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:carneirolucas88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-carneiro-dos-santos-24941526a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
 </div>
