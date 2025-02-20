@@ -31,3 +31,32 @@ Atualmente, estou no **2º ano** de **Análise e Desenvolvimento de Sistemas** n
 </div>
 
 
+### **Linguagens de Programação**
+![C#](https://img.shields.io/badge/C%23-%23007ACC?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%235C2D91?style=flat&logo=.net&logoColor=white)
+
+### **Frameworks e Bibliotecas**
+![React](https://img.shields.io/badge/React-%23282C34?style=flat&logo=react&logoColor=61DAFB)
+
+### **Banco de Dados**
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%232F6C8F?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+### **Ferramentas e Desenvolvimento**
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=flat&logo=visualstudio&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%232C2C2C?style=flat&logo=figma&logoColor=white)
+
+### **DevOps e Infraestrutura**
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black)
+![DevOps](https://img.shields.io/badge/DevOps-%23000000?style=flat&logo=devops&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%234E2D53?style=flat&logo=terraform&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%231E5094?style=flat&logo=prometheus&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=flat&logo=amazonaws&logoColor=white)
