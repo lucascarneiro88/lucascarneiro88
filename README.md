@@ -16,7 +16,7 @@ Atualmente, estou no **2º ano** de **Análise e Desenvolvimento de Sistemas** n
 
 ## 📬 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/lucascarneiro88)
-- [GitHub](https://github.com/lucascarneiro88)
+
 
 
 
