@@ -1,3 +1,4 @@
+![Montanha](https://www.w3schools.com/w3images/mountains.jpg)
 
 # Olá, sou o Lucas 👋
 
@@ -31,14 +32,8 @@ Atualmente, estou no **2º ano** de **Análise e Desenvolvimento de Sistemas** n
 </div>
 
 
-### **Linguagens de Programação**
-![C#](https://img.shields.io/badge/C%23-%23007ACC?style=flat&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%235C2D91?style=flat&logo=.net&logoColor=white)
 
-### **Frameworks e Bibliotecas**
+### **Frameworks**
 ![React](https://img.shields.io/badge/React-%23282C34?style=flat&logo=react&logoColor=61DAFB)
 
 ### **Banco de Dados**
