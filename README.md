@@ -1,4 +1,4 @@
-![Montanha](https://www.w3schools.com/w3images/mountains.jpg)
+
 
 # Olá, sou o Lucas 👋
 
