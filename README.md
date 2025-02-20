@@ -1,7 +1,7 @@
 
 # Olá, sou o Lucas 👋
 
-Atualmente, estou no **2º ano** de **Análise e Desenvolvimento de Sistemas** na **UNINTER**. Tenho formação técnica em **Desenvolvimento Fullstack** e sou apaixonado por **tecnologias como C#**, **React.js**, **JavaScript**, **MySQL**, **SQL Server**, além de explorar áreas como **DevOps**, **cloud computing** e **infraestrutura**.
+Atualmente, estou no **2º ano** de **Análise e Desenvolvimento de Sistemas** na **UNINTER**. Tenho formação técnica em **Desenvolvimento Fullstack** **C#**, **React.js**, **JavaScript**, **MySQL**, **SQL Server**, além de explorar áreas como **DevOps**, **cloud computing** e **infraestrutura**.
 
 
 
@@ -13,12 +13,6 @@ Atualmente, estou no **2º ano** de **Análise e Desenvolvimento de Sistemas** n
 - **C#**, **React.js**, **JavaScript**, **MySQL**, **SQL Server**
 - **DevOps**, **AWS**, **Linux**, **Docker**, **Kubernetes**, **Terraform**
 - **Prometheus**, **Grafana**
-
-## 🌱 Aprendendo
-- Gerenciamento de infraestruturas na **AWS**
-- **Linux** e administração de sistemas
-- Automação de processos com **Terraform** e **Docker**
-- Monitoramento e análise de dados com **Prometheus** e **Grafana**
 
 ## 📬 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/lucascarneiro88)
