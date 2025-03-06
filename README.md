@@ -1,8 +1,12 @@
 
 # Olá, sou o Lucas 👋
 
-Cursando 2° Ano de **Análise e Desenvolvimento de Sistemas** na **UNINTER**. 
-Com formação técnica em **Desenvolvimento Fullstack** **C#**, **React.js**, **JavaScript**, **MySQL**, **SQL Server** pelo **SENAC**
+Cursando 2° Ano de **Análise e Desenvolvimento de Sistemas** na **UNINTER**.
+
+
+Com formação técnica em **Desenvolvimento Fullstack** **C#**, **React.js**, **JavaScript**, **MySQL**, **SQL Server** pelo **SENAC**.
+
+
 Além de explorar áreas como **DevSecOps**, **cloud computing** e **infraestrutura AWS** na **CompassUol**.
 
 
