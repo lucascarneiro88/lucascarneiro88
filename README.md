@@ -13,8 +13,9 @@ Com formação técnica em **Desenvolvimento Fullstack** **C#**, **React.js**, *
 
 Além de explorar áreas como **DevSecOps**, **cloud computing** e **infraestrutura AWS**.
 
+ 
 
-
+  
 ## 📚 Formação
 - **Análise e Desenvolvimento de Sistemas** - UNINTER
 - **Técnico em Desenvolvimento Fullstack** - SENAC
@@ -22,7 +23,7 @@ Além de explorar áreas como **DevSecOps**, **cloud computing** e **infraestrut
 ## 🛠️ Tecnologias
 - **C#**, **React.js**, **JavaScript**, **MySQL**, **SQL Server**
 - **DevOps**, **AWS**, **Linux**, **Docker**, **Kubernetes**, **Terraform**
-- **Prometheus**, **Grafana**
+  
 
  <div>
    <a href="https://github.com/Lucascarneiro88">
@@ -35,9 +36,11 @@ Além de explorar áreas como **DevSecOps**, **cloud computing** e **infraestrut
 </div>
 
 
-
 ### **Frameworks**
 ![React](https://img.shields.io/badge/React-%23282C34?style=flat&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-%23512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%230078D4?style=flat&logo=dotnet&logoColor=white)
+
 
 ### **Banco de Dados**
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
