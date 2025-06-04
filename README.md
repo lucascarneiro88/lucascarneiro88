@@ -5,7 +5,7 @@ Cursando 2° Ano de **Análise e Desenvolvimento de Sistemas** na **UNINTER**.
 
 
 
-Certificado **AWS Certified Cloud Practitioner**☁️
+ **AWS Certified Cloud Practitioner**☁️
 
 
 Com formação técnica em **Desenvolvimento Fullstack** **C#**, **React.js**, **JavaScript**, **MySQL**, **SQL Server** pelo **SENAC**.
