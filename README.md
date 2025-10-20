@@ -1,7 +1,7 @@
 
 # Olá, sou o Lucas 👋
 
-> Cursando 2° Ano de **Análise e Desenvolvimento de Sistemas** na **UNINTER**.
+> Cursando **Análise e Desenvolvimento de Sistemas** na **UNINTER**.
 
 
 
@@ -54,10 +54,11 @@
 ### **DevOps e Infraestrutura**
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 <!--[Terraform](https://img.shields.io/badge/Terraform-%234E2D53?style=flat&logo=terraform&logoColor=white)-->
-<!-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)-->
+
 <!-- ![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=flat&logo=grafana&logoColor=white)-->
 <!-- ![Prometheus](https://img.shields.io/badge/Prometheus-%231E5094?style=flat&logo=prometheus&logoColor=white)-->
 
