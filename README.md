@@ -8,7 +8,7 @@
 >> **AWS Certified Cloud Practitioner**☁️
 
 
->>> Também explorarando áreas como **DevSecOps**, **cloud computing** e **infraestrutura AWS**.
+>>> Explorarando áreas como **DevOps**, **cloud computing** e **infraestrutura AWS**.
 
  
 <div>
