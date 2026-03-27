@@ -1,34 +1,23 @@
 
 # Olá, sou o Lucas 👋
 
-> Cursando **Análise e Desenvolvimento de Sistemas** na **UNINTER**.
-
-
-
->> **AWS Certified Cloud Practitioner**☁️
-
-
->>> Explorarando áreas como **DevOps**, **cloud computing** e **infraestrutura AWS**.
-
  
 <div>
    <a href="https://github.com/Lucascarneiro88">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucascarneiro88&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-
-
 
     
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascarneiro88&layout=compact&langs_count=6&theme=gruvbox"/>
 </div>
 
   
-## 📚 Formação
+## Formação
 - **Análise e Desenvolvimento de Sistemas** - UNINTER
 - **Técnico em Desenvolvimento Fullstack** - SENAC
 
 
 
-## 🛠️ Tecnologias
+## Tecnologias
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%2314354C?style=flat&logo=python&logoColor=white)
