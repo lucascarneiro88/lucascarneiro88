@@ -1,16 +1,14 @@
 
 # Olá, sou o Lucas 👋
-
- 
 <div>
-   <a href="https://github.com/Lucascarneiro88">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucascarneiro88&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Lucascarneiro88">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Lucascarneiro88&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 
-    
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascarneiro88&layout=compact&langs_count=6&theme=gruvbox"/>
+   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lucascarneiro88&layout=compact&langs_count=6&theme=gruvbox"/>
+  </a>
 </div>
+ 
 
-  
 ## Formação
 - **Análise e Desenvolvimento de Sistemas** - UNINTER
 - **Técnico em Desenvolvimento Fullstack** - SENAC
